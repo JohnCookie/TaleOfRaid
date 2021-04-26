@@ -1,0 +1,26 @@
+[ {
+  "Id" : 1,
+  "Name" : "Attack",
+  "Desc" : "Deal 2 Physics Damage",
+  "Img" : "CardIcon/attack.png"
+}, {
+  "Id" : 2,
+  "Name" : "Smash",
+  "Desc" : "Deal 5 Physics Damage",
+  "Img" : "CardIcon/smash.png"
+}, {
+  "Id" : 3,
+  "Name" : "Shield",
+  "Desc" : "Gain 3 Armor",
+  "Img" : "CardIcon/Shield.png"
+}, {
+  "Id" : 4,
+  "Name" : "Heal",
+  "Desc" : "Restore 3 HP",
+  "Img" : "CardIcon/Heal.png"
+}, {
+  "Id" : 5,
+  "Name" : "Activation",
+  "Desc" : "Draw 2 Card Immediately",
+  "Img" : "CardIcon/Activation.png"
+} ]
