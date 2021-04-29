@@ -33,6 +33,8 @@ public class Game : MonoBehaviour, IGame
         resManager = ResManager.getInstance();
         uiManager = UIManager.getInstance();
         levelManager = LevelManager.getInstance();
+
+        OnEndLoad();
     }
 
     public void OnLoad()
